@@ -1,9 +1,10 @@
 # CancerMIRNome Database Information
 
 * **Full Database Name:** CancerMIRNome
-* **Version Used:** As available at time of access.
-* **Access Date(s):** [Insert Date(s) of Access, e.g., 2025-07-25]
-* **Persistent Identifier/URL:** [CancerMIRNome Official Website](https://www.cancermirnome.org/) (Common URL, verify if this is the exact tool used)
-* [cite_start]**Description of Data Used:** Compares miRNA levels in tumor vs. normal lung tissue and performs ROC curve analysis[cite: 529, 534]. [cite_start]Used to reveal significantly lower hsa-let-7b-5p levels in LUAD tumors.
+* **Version Used:** 2021
+* **Access Date(s):** 02-05-2025
+* **/URL:** (https://www.cancermirnome.org/) 
+* **Description of Data Used:** CancerMIRNome is a comprehensive database with the human miRNome profiles of 33 cancer types from The Cancer Genome Atlas (TCGA), and 40 public cancer circulating miRNome profiling datasets from NCBI Gene Expression Omnibus (GEO) and ArrayExpress.
+CancerMIRNome provides a user-friendly interface and a suite of advanced functions for: (I) the pan-cancer analysis of a miRNA of interest across multiple cancer types; and (II) the comprehensive analysis of cancer miRNome profiles to identify boimarkers/signatures for cancer diagnosis and prognosis.
 * **Key Parameters/Filters Applied:** miRNA differential expression, ROC curve analysis for diagnostic potential.
 * **Licensing Information:** Refer to the CancerMIRNome website for specific licensing details.
